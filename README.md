@@ -20,3 +20,5 @@ This project is an **AI-driven Urdu poetry generator** built using **deep learni
 ```bash
 git clone https://github.com/yourusername/urdu-poetry-generator.git
 cd urdu-poetry-generator
+pip install -r requirements.txt
+streamlit run app.py
